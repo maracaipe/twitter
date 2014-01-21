@@ -6,6 +6,9 @@ app/[Cc]onfig/core.php
 app/[Cc]onfig/database.php
 !empty
 
+# Composer ignores
+vendor/
+
 # OS X ignores
 .DS_Store
 .AppleDouble
